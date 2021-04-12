@@ -26,7 +26,7 @@ El servidor debe devlolver un JSON con la siguiente information:
 
 Indicando si el DNI es válido o no, bien sea porque está caducado o porque el formato no es correcto.
 
-Pista: Es fácil conseguir esta funcionalidad modificando el método __esDniValido__ usando el otro método de clase __estaCaducado__
+Pista: Es fácil conseguir esta funcionalidad modificando el método __esDniValido__ usando el otro método de clase __estaCaducado__ . Alternativamente, también podeis simplemente invocar el método __estaCaducado__ en el app.js para conseguir el mismo resultado.
 
 Pista: Como devolver un JSON con NodeJS: https://stackoverflow.com/questions/19696240/proper-way-to-return-json-using-node-or-express
 
