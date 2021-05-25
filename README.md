@@ -8,7 +8,7 @@ Vídeo explicativo - [Link](https://oscarm.tinytake.com/tt/NTI3OTAzN18xNjUyNTgwN
 
 # Requisito 1
 
-Implementa, en LA CARPETA CLIENT, la funcionalidad mísima y necesaria para que, al hacer click encima de un fila, se genera un llamada GET contra el endpoint del  servidor '/comporbarDNI'; donde le pasamos como parámetro el Dni clickado. Podeís utilizar QueryString para pasar la información
+Implementa, en LA CARPETA CLIENT, la funcionalidad mínima  y necesaria para que, al hacer click encima de un fila, se genera un llamada GET contra el endpoint del  servidor '/comporbarDNI'; donde le pasamos como parámetro el Dni clickado. Podeís utilizar QueryString para pasar la información
 
 Por ejemplo: si hacemos click en la primera fila debería generarse una llamada a http://localhost:3000/comprobarDNI?dni=40400500B&caducidad=2021-11-11
 
